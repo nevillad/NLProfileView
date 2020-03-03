@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NLProfileView_Example' do
+  pod 'NLProfileView', :path => '../'
+
+  target 'NLProfileView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
