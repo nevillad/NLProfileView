@@ -1,0 +1,6 @@
+framework module NLProfileView {
+  umbrella header "NLProfileView-umbrella.h"
+
+  export *
+  module * { export * }
+}

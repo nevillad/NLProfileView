@@ -1,0 +1,6 @@
+framework module Pods_NLProfileView_Example {
+  umbrella header "Pods-NLProfileView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - NLProfileView (0.1.0)
+
+DEPENDENCIES:
+  - NLProfileView (from `../`)
+
+EXTERNAL SOURCES:
+  NLProfileView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NLProfileView: ebf7a285a99d5351d232cf5c55ad9ec61d20c857
+
+PODFILE CHECKSUM: d03273604309b204987fda1ca6b1ab174ca7a085
+
+COCOAPODS: 1.9.0
